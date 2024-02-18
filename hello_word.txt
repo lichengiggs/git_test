@@ -1,0 +1,2 @@
+Open hello_world.txt, add some text to it, save it and stage it. You can use to add all files in the current directory and all subsequent directories to the staging area. Then, type once more, and everything should now be in the staging area.git add .git status
+打开hello_world.txt，添加一些文本，保存并登台。您可以使用 将当前目录中的所有文件和所有后续目录添加到登台区域。然后，再次输入，现在所有内容都应该在登台区域中了。 git add .git status
